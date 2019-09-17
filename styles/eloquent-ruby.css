@@ -1,0 +1,21 @@
+article {
+  width: 95%;
+  border: 2px solid #DCDCDC;
+  padding: 5px;
+  background-color: #e6e1d1;
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.review_content p {
+  line-height: 150%;
+}
+
+.item_details p {
+  line-height: 150%;
+}
+
+.description p {
+  line-height: 150%;
+}
